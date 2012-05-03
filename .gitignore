@@ -4,6 +4,9 @@
 *.project
 *.settings
 *~
+.lein*
 build
 dist
 hs_err_pid*.log
+lib
+resources/public/js
